@@ -56,6 +56,7 @@ class LoginTextFormWidget extends StatelessWidget {
                 color: Colors.black,
               ),
               // prefixIcon: Icon(Icons.key)
+              suffixIcon: Icon(Icons.visibility)
             ),
           ),
           // Botton
